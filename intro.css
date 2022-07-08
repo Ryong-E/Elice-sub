@@ -1,0 +1,78 @@
+@import url("https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css");
+@import url("https://cdn-uicons.flaticon.com/uicons-brands/css/uicons-brands.css");
+@import url(//font.elice.io/EliceDigitalBaeum.css);
+
+* {
+  font-family: "Elice Digital Baeum", sans-serif;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+#container {
+  margin-top: 50px;
+  box-shadow: 20px 20px 50px grey;
+  border-radius: 10px;
+  width: 500px;
+  height: 800px;
+}
+#headerLeft img {
+  border: solid;
+  border-radius: 50%;
+}
+#headerLeft span {
+  margin-left: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+#headerLeft {
+  float: left;
+  display: flex;
+  align-items: center;
+  margin: 20px 0 15px 30px;
+}
+#headerRight {
+  float: right;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  margin: 10px 20px 20px 0px;
+}
+header {
+  width: 100%;
+  height: 80px;
+}
+main {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+}
+#emoji {
+  margin-top: 10px;
+}
+#emoji i {
+  margin: 0px 10px;
+  cursor: pointer;
+}
+
+#js {
+  font-size: 30px;
+}
+#myinfor {
+  word-break: break-all;
+  padding: 10px;
+}
+.fi:hover {
+  color: grey;
+}
+
+#talk,
+#hobby,
+#python {
+  font-size: 20px;
+}
