@@ -52,21 +52,21 @@ Axios는 promise 기반이기 때문에 데이터를 다루기에 편하고
 # 폴더구조
 ```
 🖥 front
-├─ node_modules  -> 사용되는 모듈 폴더
-├─ public -> index.html 과 웹에서 표시되는 이미지들 폴더
-├─ src -> 전체 소스 폴더
-│  ├─ api -> api요청 파일 모음 폴더
-│  ├─ components -> 컴포넌트 폴더
-│  │  ├─ category
-│  │  │  ├─ award  -> Award MVP
-│  │  │  ├─ certificate -> Certificate MVP
-│  │  │  ├─ education -> Education MVP
-│  │  │  └─ project -> Project MVP
-│  │  ├─ Modal -> Modal로 띄울 컴포넌트
-│  │  ├─ styledComponents -> 중복사용되는 스타일 컴포넌트
-│  │  └─ user -> USER와 관련된 컴포넌트들 (회원가입,로그인,유저카드 등)
-│  ├─ font -> 웹에 표시되는 폰트폴더
-│  └─ theme -> 웹에 기본적인 컬러 폴더
+├─ 📁node_modules  -> 사용되는 모듈 폴더
+├─ 📁public -> index.html 과 웹에서 표시되는 이미지들 폴더
+├─ 📁src -> 전체 소스 폴더
+│  ├─ 📁api -> api요청 파일 모음 폴더
+│  ├─ 📁components -> 컴포넌트 폴더
+│  │  ├─ 📁category
+│  │  │  ├─ 📁award  -> Award MVP
+│  │  │  ├─ 📁certificate -> Certificate MVP
+│  │  │  ├─ 📁education -> Education MVP
+│  │  │  └─ 📁project -> Project MVP
+│  │  ├─ 📁Modal -> Modal로 띄울 컴포넌트
+│  │  ├─ 📁styledComponents -> 중복사용되는 스타일 컴포넌트
+│  │  └─ 📁user -> USER와 관련된 컴포넌트들 (회원가입,로그인,유저카드 등)
+│  ├─ 📁font -> 웹에 표시되는 폰트폴더
+│  └─ 📁theme -> 웹에 기본적인 컬러 폴더
 └─ 
 ```
 
