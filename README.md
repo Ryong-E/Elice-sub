@@ -51,7 +51,7 @@ Axios는 promise 기반이기 때문에 데이터를 다루기에 편하고
 
 # 폴더구조
 ```
-📦 front
+🖥 front
 ├─ node_modules  -> 사용되는 모듈 폴더
 ├─ public -> index.html 과 웹에서 표시되는 이미지들 폴더
 ├─ src -> 전체 소스 폴더
