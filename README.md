@@ -63,3 +63,10 @@ docs
    ├─ font
    └─ theme
 ```
+
+# 실행방법
+```bash
+npm i -g yarn
+yarn
+yarn start
+```
